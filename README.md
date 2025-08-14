@@ -53,7 +53,7 @@ This creates a Mermaid diagram showing:
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Iulia-plesu/Multi-Agent-Research-Assistant
    cd Multi-Agent-Research-Assistant
    ```
 
@@ -126,4 +126,5 @@ Generated files:
 - `shaorma_research_report.md` - Complete report with critic analysis
 - `food_critic_review.md` - Separate food critic review
 - `workflow_graph.png` - Visual workflow diagram
+
 
