@@ -1,5 +1,10 @@
 ## Project Title: Build a Multi-Agent Research Assistant
 
+**Collaborators:**
+
+- [vld2405](https://github.com/vld2405)
+- [Mantelgen](https://github.com/Mantelgen)
+
 **Description:**
 
 This project aims to develop a multi-agent system using LangGraph and Gemini. The system will consist of four specialized agents:
@@ -121,3 +126,4 @@ Generated files:
 - `shaorma_research_report.md` - Complete report with critic analysis
 - `food_critic_review.md` - Separate food critic review
 - `workflow_graph.png` - Visual workflow diagram
+
